@@ -1,0 +1,24 @@
+{
+  "name": "hexo-feed-tag-type",
+  "version": "1.0.0",
+  "description": "Add type to feed tag",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhf/hexo-feed-tag-type.git"
+  },
+  "keywords": [
+    "hexo",
+    "feed",
+    "rss",
+    "atom"
+  ],
+  "author": "Victor Felder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vhf/hexo-feed-tag-type/issues"
+  },
+  "homepage": "https://github.com/vhf/hexo-feed-tag-type#readme"
+}
